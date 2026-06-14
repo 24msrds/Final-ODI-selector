@@ -96,34 +96,6 @@ pip install -r requirements.txt
 streamlit run frontend/app.py
 ```
 
-**4. Run FastAPI backend (optional)**
-```bash
-uvicorn main:app --reload
-```
-
-API will be available at:
----
-
-## 🔌 API Usage
-
-**Get Best XI for a country:**
-**Response:**
-```json
-{
-  "country": "India",
-  "captain": "Virat Kohli",
-  "team": [...]
-}
-```
-
----
-
-## 📦 Requirements
----
-
-## 📁 Project Structure
----
-
 ## 👨‍💻 About the Builder
 
 **Ragul B**
